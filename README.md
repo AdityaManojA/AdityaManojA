@@ -16,7 +16,7 @@ I'm a CS student studying Engineering (B.Tech), passionate about coding, design,
 ## Current Work
 
 - *DeX:* A blockchain-based education app integrating AI and blockchain technology to provide a decentralized, reward-based learning platform.
-- *Machine Learning-Based Classroom Review System:* A system that uses facial recognition to gauge student attention and rate the class.
+- *Class-Vision :* A machine learning based system that uses facial recognition to gauge student attention and rate the class.
 
 ## Recent Project
 
