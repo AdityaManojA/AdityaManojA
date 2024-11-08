@@ -2,9 +2,10 @@
 
 
 *Converting pure ideas into designs*
+
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/{Aditya-Manoj}/count.svg" />
+  <img src="https://profile-counter.glitch.me/{AdityaManojA}/count.svg" />
 </p>
 
 ## About Me
