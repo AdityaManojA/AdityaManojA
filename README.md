@@ -1,6 +1,11 @@
 # Hi there, I'm Aditya Manoj 👋
 
+
 *Converting pure ideas into designs*
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/{Aditya-Manoj}/count.svg" />
+</p>
 
 ## About Me
 
