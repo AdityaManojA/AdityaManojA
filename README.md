@@ -38,6 +38,13 @@ I'm a CS student studying Engineering (B.Tech), passionate about coding, design,
 - Making Websites
 - Working with Clients
 
+  
+## GitHub Stats
+
+<div style="display: flex; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaManojA&layout=compact&theme=dracula" alt="Top Languages">
+</div>
+
 ## Contact
 
 - *Email:* [adityamanoja@gmail.com](mailto:adityamanoja@gmail.com)
