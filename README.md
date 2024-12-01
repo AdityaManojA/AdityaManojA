@@ -46,8 +46,10 @@ I'm a CS student studying Engineering (B.Tech), passionate about coding, design,
 </div>
 
 ## Contact
-
-- *Email:* [adityamanoja@gmail.com](mailto:adityamanoja@gmail.com)
 - [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AdityaManojA?t=gUt3kWRy7IP4wSTr0u5jGg&s=09)
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-manoj-a-0a930b256)
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/blender.vibe)
+
+
+Need to get in Contact?
+- *Email:* [adityamanoja@gmail.com](mailto:adityamanoja@gmail.com)
