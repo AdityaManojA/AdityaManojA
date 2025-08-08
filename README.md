@@ -3,10 +3,7 @@
 
 *Converting pure ideas into designs*
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/{AdityaManojA}/count.svg" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=AdityaManojA&label=Profile+Views&color=blueviolet&style=flat-square" />
 
 ## About Me
 
