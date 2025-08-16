@@ -44,8 +44,8 @@ I'm a CS student studying Engineering (B.Tech), passionate about coding, design,
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,git,vscode)](https://skillicons.dev)
-
-[![Aditya's GitHub contribution graph](https://raw.githubusercontent.com/AdityaManojA/AdityaManojA/main/output/snake.svg)](https://github.com/AdityaManojA)
+<br>
+[![Aditya's GitHub contribution graph](https://raw.githubusercontent.com/AdityaManojA/AdityaManojA/main/output/snake-dark.svg)](https://github.com/AdityaManojA)
 
 ## Contact
 - [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AdityaManojA?t=gUt3kWRy7IP4wSTr0u5jGg&s=09)
