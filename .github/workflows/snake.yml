@@ -1,12 +1,12 @@
-# GitHub Action for generating a contribution graph with a snake eating your contributions
+
 name: Generate Snake
 permissions: write-all
 on:
-  # Run automatically every 12 hours
+ 
   schedule:
     - cron: "0 */12 * * *"
 
-  # Allows you to run this workflow manually from the Actions tab on GitHub.
+  
   workflow_dispatch:
 
 jobs:
@@ -19,10 +19,10 @@ jobs:
       - name: Generate snake animation
         uses: platane/snk@v3
         with:
-          # Your GitHub username. ${{ github.repository_owner }} will default to AdityaManojA
+      
           github_user_name: ${{ github.repository_owner }}
           
-          # The output file you want to generate. This will match your broken link.
+          
           outputs: |
             output/snake.svg
             output/snake-dark.svg?palette=github-dark
