@@ -42,6 +42,11 @@ I'm a CS student studying Engineering (B.Tech), passionate about coding, design,
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaManojA&layout=compact&theme=dracula&cache_seconds=3600&count_private=true">
 </div>
 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,git,vscode)](https://skillicons.dev)
+
+[![Aditya's GitHub contribution graph](https://raw.githubusercontent.com/AdityaManojA/AdityaManojA/output/snake.svg)](https://github.com/AdityaManojA)
+
 ## Contact
 - [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/AdityaManojA?t=gUt3kWRy7IP4wSTr0u5jGg&s=09)
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-manoj-a-0a930b256)
