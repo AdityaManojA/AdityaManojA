@@ -39,7 +39,7 @@ I'm a CS student studying Engineering (B.Tech), passionate about coding, design,
 ## GitHub Stats
 
 <div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaManojA&layout=compact&theme=dracula" alt="Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaManojA&layout=compact&theme=dracula&cache_seconds=3600&count_private=true)">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaManojA&layout=compact&theme=dracula&cache_seconds=3600&count_private=true">
 </div>
 
 ## Contact
