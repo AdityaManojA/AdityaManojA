@@ -41,7 +41,7 @@ I'm a CS student studying Engineering (B.Tech), passionate about coding, design,
 <div style="display: flex; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaManojA&layout=compact&theme=dracula&cache_seconds=3600&count_private=true">
 </div>
-
+<br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,git,vscode)](https://skillicons.dev)
 <br>
