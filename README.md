@@ -1,89 +1,120 @@
-# Hi there, I'm Aditya Manoj 👋
+<div align="center">
 
-*Developer I — DevOps & Full-Stack Engineering | Applied AI | CI/CD & Automation*
+# Hi there, I'm Aditya 
+### **Developer I — Full-Stack, Multimodal AI Systems & DevOps Engineering**
 
-<img src="https://komarev.com/ghpvc/?username=AdityaManojA&label=Profile+Views&color=blueviolet&style=flat-square" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-xo--aditya.web.app-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xo-aditya.web.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Manoj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-manoja-dev)
+[![Email](https://img.shields.io/badge/Email-adityamanoja%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityamanoja@gmail.com)
+[![GitHub Views](https://komarev.com/ghpvc/?username=AdityaManojA&label=Profile+Views&color=0e75b6&style=for-the-badge)](https://github.com/AdityaManojA)
 
-## About Me
-
-I am a Computer Science Engineer (B.Tech) with over 1.5 years of hands-on experience spanning full-stack development, applied AI, and Agile delivery. I specialize in building large-scale digital systems, creating automated workflows, and writing clean, reproducible code. 
-
-Whether it's deploying applications with 100% uptime for international conferences or mentoring the next generation of student developers, I thrive on turning complex ideas into high-performance digital ecosystems.
-
-## Technical Skills & Tools
-
-- **Core DevOps & Automation:** Python (OOP), Git/GitHub Workflows, CI/CD Concepts, Bash Scripting, Docker Basics, Agile/Scrum
-- **Full-Stack Development:** React, React Native, Node.js, Express, Firebase, MongoDB (MERN Stack), Django, FastAPI, HTML5, CSS3
-- **AI / ML & Frameworks:** TensorFlow, OpenCV, Data Preprocessing Pipelines
-- **Design & Multimedia:** Blender 3D, Adobe Premiere, Illustrator, After Effects, Photoshop, SketchUp, Unity
-- **Other Languages & Tools:** Java, JavaScript, C, C++, C#, Dart, SQL, PHP, Webflow, VS Code
-
-## Certifications
-
-- **Meta Full Stack Developer Specialization** | Coursera (Meta) — *Covering end-to-end web apps, REST APIs, databases, and version control workflows.*
-
----
-
-## Professional Experience
-
-### **Lead Developer (Technical Trainee)** | Rajiv Gandhi Centre for Biotechnology
-*Aug 2025 – Nov 2025 | Thiruvananthapuram*
-- Built and deployed a high-performance Progressive Web App (PWA) managing on-ground logistics for an international neuroscience conference, achieving 100% uptime during peak hours.
-- Automated event workflows, handling 1.2 million Firestore reads and a secure digital authentication system that processed over 2,275 food coupon scans without manual errors.
-- Developed and maintained object-oriented Python scripts to seamlessly integrate multiple data streams within an Agile team environment.
-
-### **Product Intern** | Lascade LLP
-*Jan 2025 – Aug 2025 | Kochi*
-- Architected cross-platform features using React Native, accelerating the feature release cycle by 25%.
-- Reduced platform-specific rendering issues by 15% through meticulous refactoring and daily Git branching/PR review workflows.
-- Collaborated with CI/CD pipelines for app builds, gaining hands-on exposure to automated release processes.
-
-### **App Developer & Technical Mentor** | Sarvodayam VHSS Arayampadam (Govt. of Kerala)
-*Oct 2023 – Mar 2024 | Thrissur*
-- Co-developed **Ente Naddu App**, a Government of Kerala-supported mobile application for school students, taking complete project ownership from architecture to post-deployment.
-- Provided full-spectrum technical mentorship (system architecture, troubleshooting, feature implementation) to the student development team.
-- Honored with a formal Certificate of Appreciation from Jyothi Engineering College for social commitment and leadership.
-
-### **AI/ML & Full Stack Intern** | ICT Academy of Kerala
-*May 2023 – Oct 2024 | Thiruvananthapuram*
-- Engineered Python-based data preprocessing pipelines that boosted image classification accuracy by 10% via advanced augmentation.
-- Optimized supervised learning facial recognition models, lowering false positives by 5%.
-- Architected and deployed a responsive MERN stack application integrated with Firebase for real-time multi-user synchronization.
-
----
-
-## Technical Projects
-
-- **Ente Naddu App:** A government-backed digital initiative and mobile platform co-developed alongside school students over a 5-6 month lifecycle.
-- **Automated Review & Attendance System:** An end-to-end machine learning pipeline built using Python and OpenCV for facial-recognition-based logging. Achieved 92% accuracy and cut manual administrative overhead by 95%.
-- **Web-Based CSV to JSON Utility:** A high-performance, client-side tool with zero data latency and strict local data privacy, built with a DevOps mindset for smooth developer workflows.
-- **[Meat Spoilage Detection System](https://github.com/AdityaManojA/Meat-Spoilage-detection-IOT):** A hardware-based, no-contact IoT project that assesses food safety by detecting spoilage.
-
----
-
-## Education & Leadership
-
-- **B.Tech in Computer Science & Engineering** | Jyothi Engineering College, Thrissur
-- **Technical Lead** | Indian Academy of Neurosciences Infrastructure — *Selected by RGCB to spearhead the digital operating system for their international meet, securing 2,200+ digital interactions.*
-- **Mentorship Recognition** | Commended for technical excellence during lab training under Dr. Jackson James at the Rajiv Gandhi Centre for Biotechnology.
-
----
-
-## GitHub Stats
-
-<div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaManojA&layout=compact&theme=dracula&cache_seconds=3600&count_private=true">
 </div>
-<br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,git,vscode,py,docker,figma)](https://skillicons.dev)
-<br>
-[![Aditya's GitHub contribution graph](https://raw.githubusercontent.com/AdityaManojA/AdityaManojA/main/output/snake-dark.svg)](https://github.com/AdityaManojA)
+---
 
-## Connect with Me
+### 🚀 Executive Summary
 
-- **Portfolio:** [adityamanojportfolio.web.app](https://adityamanojportfolio.web.app)
-- **Email:** [adityamanoja@gmail.com](mailto:adityamanoja@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-manoja-dev)
-- [![X](https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/AdityaManojA)
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/blender.vibe)
+Dynamic **Computer Science Engineer (B.Tech)** with **2+ years of production experience** engineering multimodal desktop agents, zero-knowledge offline-first web applications, and automated CI/CD infrastructure. Proven record of building high-concurrency event operating systems processing **1.2M+ operations with 100% uptime**.
+
+Specialized in:
+- **Multimodal AI & Agents:** Full-duplex WebSocket protocols (Gemini Live), local LLM inference (Ollama/vLLM), Model Context Protocol (MCP), and tactical PyQt6 desktop runtimes.
+- **Resilient Full-Stack Systems:** Offline-first Progressive Web Apps (IndexedDB, Service Workers, WebAuthn), reactive canvases (WebGL/Three.js), and sandboxed on-device client processing.
+- **Cloud & Automation:** Docker containerization, Firebase serverless microservices, and edge deployment pipelines (Vite Edge CDN).
+
+---
+
+### 🛠️ Core Tech Stack & Tooling
+
+```
+Cloud & DevOps      :: Docker, Firebase (Hosting, Functions, Firestore), CI/CD Workflows, Bash/PowerShell
+AI & Systems        :: Gemini Live (WebSockets), Ollama/vLLM, Model Context Protocol (MCP), RapidOCR, OpenCV
+Frontend & PWA      :: React, React Native, Vite, IndexedDB (Dexie.js), WebAuthn, Service Workers, WebGL/Three.js
+Desktop & Runtimes  :: Python (Asyncio / OOP), PyQt6 (Software/OpenGL), PortAudio, Win32 / macOS AppKit / DBus
+Database & Backend  :: Node.js, Express, Django, FastAPI, MongoDB, PostgreSQL, Firestore
+```
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,react,nodejs,express,docker,firebase,vite,js,ts,mongodb,postgres,git,github,vscode,figma" alt="Skill Icons" />
+</div>
+
+---
+
+### 💼 Professional Highlights
+
+- **Full-Stack PWA & Security Systems Engineer** | *SBAFA Financial Enclave* `(Jan 2026 – Present)`
+  - Architected a zero-knowledge offline-first PWA with bi-directional reactive sync across 1,000+ records using IndexedDB (`Dexie.js`) and Firestore.
+  - Engineered an on-device sandboxed PDF statement ingestion engine (`pdfjs-dist`) with zero telemetry and WebAuthn passkey encryption.
+- **Lead PWA & Frontend Systems Engineer** | *IndZita Biotech* `(Jul 2026 – Sep 2026)`
+  - Deployed an offline-capable Virtual Diagnostics Lab simulator modeling real-time PCR kinetics for clinical partners under the MAHA MedTech Mission.
+  - Optimized 3D canvas rendering lifecycle via `IntersectionObserver`, sustaining 60 FPS across low-spec devices.
+- **Full-Stack & DevOps Engineer** | *Threadpath Collective* `(Apr 2026 – Jun 2026)`
+  - Delivered end-to-end full-stack architectures on React & Node.js with Firebase Cloud Functions and automated CI/CD edge caching pipelines.
+- **Lead Developer (Technical Trainee)** | *Rajiv Gandhi Centre for Biotechnology* `(Jun 2025 – Nov 2025)`
+  - Architected the logistics PWA for the *IAN-2025* international conference, handling **1.2M+ Firestore reads** and 2,275+ digital authentications with **100% uptime**.
+
+---
+
+### 🔬 Featured Technical Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 <a href="https://github.com/AdityaManojA/ALFRED-MK-V">ALFRED Mark-VII</a></h4>
+      <p><b>Autonomous Multimodal Desktop Assistant</b></p>
+      <ul>
+        <li>Cross-platform agent with sub-second full-duplex voice/vision streaming via Google Gemini Live WebSockets & local LLMs (Ollama).</li>
+        <li>Custom low-latency PyQt6 HUD UI slashing render latency by 82% (125ms → 22ms) using PortAudio jitter buffering.</li>
+        <li>Hybrid visual grounding via RapidOCR and spatial coordinate mapping with zero telemetry.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ <a href="https://github.com/AdityaManojA/prompt-ops-blueprints">Agentic Prompt-Ops Engine</a></h4>
+      <p><b>Deterministic System Blueprints for Autonomous Coding Agents</b></p>
+      <ul>
+        <li>Standardized multi-agent execution graphs and MCP schemas for Claude Code, Cursor, and Windsurf.</li>
+        <li>Accelerated production-grade code generation across 8+ modern application stacks.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔐 <a href="https://sbafa-ft.web.app/">SBAFA Financial Enclave</a></h4>
+      <p><b>Offline-First Client-Side Financial PWA</b></p>
+      <ul>
+        <li>Client-side statement parsing engine with strict local-only data privacy.</li>
+        <li>Multi-tier Stale-While-Revalidate caching, biometric passkeys, and zero third-party telemetry.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🥩 <a href="https://github.com/AdityaManojA/Meat-Spoilage-detection-IOT">Meat Spoilage Detection System</a></h4>
+      <p><b>IoT Food Quality & Safety Monitor</b></p>
+      <ul>
+        <li>Hardware-integrated, contactless IoT sensor pipeline assessing meat freshness and safety profiles in real time.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📜 Certifications & Honors
+
+- **Meta Full Stack Developer Specialization** | Coursera (Meta) — *End-to-end full-stack architectures, REST APIs, Python/Django, and CI/CD version control workflows.*
+- **Official Certificate of Appreciation** | Jyothi Engineering College & Sarvodayam VHSS — *Recognized for technical leadership and mentoring school students in co-developing the Ente Naddu mobile app.*
+- **Infrastructure Lead Commendation** | Rajiv Gandhi Centre for Biotechnology — *Recognized for spearheading mission-critical systems under Dr. Jackson James.*
+
+---
+
+### 📊 GitHub Activity & Insights
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaManojA&layout=compact&theme=dracula&cache_seconds=3600&count_private=true" alt="Top Languages" />
+  <br /><br />
+  <img src="https://raw.githubusercontent.com/AdityaManojA/AdityaManojA/main/output/snake-dark.svg" alt="Snake Contribution Graph" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Engineered with precision by <b>Aditya Manoj</b> • Open to impactful engineering opportunities & technical collaborations</sub>
+</div>
