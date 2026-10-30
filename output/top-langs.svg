@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="204" viewBox="0 0 420 204" role="img" aria-labelledby="t">
+  <title id="t">Most used languages</title>
+  <style>
+    .title { font: 600 16px 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; fill: #0969da; }
+    .lang { font: 500 13px 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; fill: #1f2328; }
+    .pct { font: 400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; fill: #656d76; }
+    .item { opacity: 0; animation: fade .4s ease-out forwards; }
+    @keyframes fade { to { opacity: 1; } }
+  </style>
+  <rect x="0.5" y="0.5" width="419" height="203" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="24" y="38" class="title">Most Used Languages</text>
+  <clipPath id="bar"><rect x="24" y="58" width="372" height="10" rx="5"/></clipPath>
+  <rect x="24" y="58" width="372" height="10" rx="5" fill="#eaeef2"/>
+  <g clip-path="url(#bar)"><rect x="24.00" y="58" width="163.04" height="10" fill="#3572A5"/><rect x="187.04" y="58" width="147.97" height="10" fill="#e34c26"/><rect x="335.01" y="58" width="42.84" height="10" fill="#f1e05a"/><rect x="377.85" y="58" width="10.59" height="10" fill="#563d7c"/><rect x="388.44" y="58" width="4.66" height="10" fill="#3178c6"/><rect x="393.10" y="58" width="0.67" height="10" fill="#f34b7d"/><rect x="393.77" y="58" width="0.64" height="10" fill="#F05138"/><rect x="394.41" y="58" width="1.59" height="10" fill="#8b949e"/></g>
+  <g class="item" style="animation-delay:150ms" transform="translate(24,98)">
+      <circle cx="5" cy="-4" r="5" fill="#3572A5"/>
+      <text x="16" y="0" class="lang">Python</text>
+      <text x="174" y="0" class="pct" text-anchor="end">43.8%</text>
+    </g>
+<g class="item" style="animation-delay:230ms" transform="translate(210,98)">
+      <circle cx="5" cy="-4" r="5" fill="#e34c26"/>
+      <text x="16" y="0" class="lang">HTML</text>
+      <text x="174" y="0" class="pct" text-anchor="end">39.8%</text>
+    </g>
+<g class="item" style="animation-delay:310ms" transform="translate(24,124)">
+      <circle cx="5" cy="-4" r="5" fill="#f1e05a"/>
+      <text x="16" y="0" class="lang">JavaScript</text>
+      <text x="174" y="0" class="pct" text-anchor="end">11.5%</text>
+    </g>
+<g class="item" style="animation-delay:390ms" transform="translate(210,124)">
+      <circle cx="5" cy="-4" r="5" fill="#563d7c"/>
+      <text x="16" y="0" class="lang">CSS</text>
+      <text x="174" y="0" class="pct" text-anchor="end">2.8%</text>
+    </g>
+<g class="item" style="animation-delay:470ms" transform="translate(24,150)">
+      <circle cx="5" cy="-4" r="5" fill="#3178c6"/>
+      <text x="16" y="0" class="lang">TypeScript</text>
+      <text x="174" y="0" class="pct" text-anchor="end">1.3%</text>
+    </g>
+<g class="item" style="animation-delay:550ms" transform="translate(210,150)">
+      <circle cx="5" cy="-4" r="5" fill="#f34b7d"/>
+      <text x="16" y="0" class="lang">C++</text>
+      <text x="174" y="0" class="pct" text-anchor="end">0.2%</text>
+    </g>
+<g class="item" style="animation-delay:630ms" transform="translate(24,176)">
+      <circle cx="5" cy="-4" r="5" fill="#F05138"/>
+      <text x="16" y="0" class="lang">Swift</text>
+      <text x="174" y="0" class="pct" text-anchor="end">0.2%</text>
+    </g>
+<g class="item" style="animation-delay:710ms" transform="translate(210,176)">
+      <circle cx="5" cy="-4" r="5" fill="#8b949e"/>
+      <text x="16" y="0" class="lang">Standard ML</text>
+      <text x="174" y="0" class="pct" text-anchor="end">0.1%</text>
+    </g>
+</svg>

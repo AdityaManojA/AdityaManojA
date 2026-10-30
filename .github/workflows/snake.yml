@@ -34,5 +34,6 @@ jobs:
           git add output/snake.svg output/snake-dark.svg
           if [ -n "$(git status --porcelain)" ]; then
             git commit -m "chore: generate contribution snake"
+            git pull --rebase
             git push
           fi
