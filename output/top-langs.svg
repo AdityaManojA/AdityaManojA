@@ -11,16 +11,16 @@
   <text x="24" y="38" class="title">Most Used Languages</text>
   <clipPath id="bar"><rect x="24" y="58" width="372" height="10" rx="5"/></clipPath>
   <rect x="24" y="58" width="372" height="10" rx="5" fill="#eaeef2"/>
-  <g clip-path="url(#bar)"><rect x="24.00" y="58" width="163.04" height="10" fill="#3572A5"/><rect x="187.04" y="58" width="147.97" height="10" fill="#e34c26"/><rect x="335.01" y="58" width="42.84" height="10" fill="#f1e05a"/><rect x="377.85" y="58" width="10.59" height="10" fill="#563d7c"/><rect x="388.44" y="58" width="4.66" height="10" fill="#3178c6"/><rect x="393.10" y="58" width="0.67" height="10" fill="#f34b7d"/><rect x="393.77" y="58" width="0.64" height="10" fill="#F05138"/><rect x="394.41" y="58" width="1.59" height="10" fill="#8b949e"/></g>
+  <g clip-path="url(#bar)"><rect x="24.00" y="58" width="164.05" height="10" fill="#3572A5"/><rect x="188.05" y="58" width="147.54" height="10" fill="#e34c26"/><rect x="335.59" y="58" width="42.72" height="10" fill="#f1e05a"/><rect x="378.31" y="58" width="10.56" height="10" fill="#563d7c"/><rect x="388.86" y="58" width="4.65" height="10" fill="#3178c6"/><rect x="393.51" y="58" width="0.67" height="10" fill="#f34b7d"/><rect x="394.18" y="58" width="0.64" height="10" fill="#F05138"/><rect x="394.82" y="58" width="1.18" height="10" fill="#DA3434"/></g>
   <g class="item" style="animation-delay:150ms" transform="translate(24,98)">
       <circle cx="5" cy="-4" r="5" fill="#3572A5"/>
       <text x="16" y="0" class="lang">Python</text>
-      <text x="174" y="0" class="pct" text-anchor="end">43.8%</text>
+      <text x="174" y="0" class="pct" text-anchor="end">44.1%</text>
     </g>
 <g class="item" style="animation-delay:230ms" transform="translate(210,98)">
       <circle cx="5" cy="-4" r="5" fill="#e34c26"/>
       <text x="16" y="0" class="lang">HTML</text>
-      <text x="174" y="0" class="pct" text-anchor="end">39.8%</text>
+      <text x="174" y="0" class="pct" text-anchor="end">39.7%</text>
     </g>
 <g class="item" style="animation-delay:310ms" transform="translate(24,124)">
       <circle cx="5" cy="-4" r="5" fill="#f1e05a"/>
@@ -35,7 +35,7 @@
 <g class="item" style="animation-delay:470ms" transform="translate(24,150)">
       <circle cx="5" cy="-4" r="5" fill="#3178c6"/>
       <text x="16" y="0" class="lang">TypeScript</text>
-      <text x="174" y="0" class="pct" text-anchor="end">1.3%</text>
+      <text x="174" y="0" class="pct" text-anchor="end">1.2%</text>
     </g>
 <g class="item" style="animation-delay:550ms" transform="translate(210,150)">
       <circle cx="5" cy="-4" r="5" fill="#f34b7d"/>
@@ -48,8 +48,8 @@
       <text x="174" y="0" class="pct" text-anchor="end">0.2%</text>
     </g>
 <g class="item" style="animation-delay:710ms" transform="translate(210,176)">
-      <circle cx="5" cy="-4" r="5" fill="#8b949e"/>
-      <text x="16" y="0" class="lang">Standard ML</text>
+      <circle cx="5" cy="-4" r="5" fill="#DA3434"/>
+      <text x="16" y="0" class="lang">CMake</text>
       <text x="174" y="0" class="pct" text-anchor="end">0.1%</text>
     </g>
 </svg>
