@@ -11,7 +11,7 @@
   <text x="24" y="38" class="title">Most Used Languages</text>
   <clipPath id="bar"><rect x="24" y="58" width="372" height="10" rx="5"/></clipPath>
   <rect x="24" y="58" width="372" height="10" rx="5" fill="#21262d"/>
-  <g clip-path="url(#bar)"><rect x="24.00" y="58" width="168.97" height="10" fill="#3572A5"/><rect x="192.97" y="58" width="144.05" height="10" fill="#e34c26"/><rect x="337.02" y="58" width="41.71" height="10" fill="#f1e05a"/><rect x="378.73" y="58" width="10.31" height="10" fill="#563d7c"/><rect x="389.03" y="58" width="4.54" height="10" fill="#3178c6"/><rect x="393.57" y="58" width="0.65" height="10" fill="#f34b7d"/><rect x="394.22" y="58" width="0.63" height="10" fill="#F05138"/><rect x="394.85" y="58" width="1.15" height="10" fill="#DA3434"/></g>
+  <g clip-path="url(#bar)"><rect x="24.00" y="58" width="168.88" height="10" fill="#3572A5"/><rect x="192.88" y="58" width="143.94" height="10" fill="#e34c26"/><rect x="336.82" y="58" width="41.79" height="10" fill="#f1e05a"/><rect x="378.61" y="58" width="10.43" height="10" fill="#563d7c"/><rect x="389.04" y="58" width="4.54" height="10" fill="#3178c6"/><rect x="393.58" y="58" width="0.65" height="10" fill="#f34b7d"/><rect x="394.23" y="58" width="0.63" height="10" fill="#F05138"/><rect x="394.85" y="58" width="1.15" height="10" fill="#DA3434"/></g>
   <g class="item" style="animation-delay:150ms" transform="translate(24,98)">
       <circle cx="5" cy="-4" r="5" fill="#3572A5"/>
       <text x="16" y="0" class="lang">Python</text>
