@@ -11,21 +11,21 @@
   <text x="24" y="38" class="title">Most Used Languages</text>
   <clipPath id="bar"><rect x="24" y="58" width="372" height="10" rx="5"/></clipPath>
   <rect x="24" y="58" width="372" height="10" rx="5" fill="#eaeef2"/>
-  <g clip-path="url(#bar)"><rect x="24.00" y="58" width="173.46" height="10" fill="#3572A5"/><rect x="197.46" y="58" width="140.27" height="10" fill="#e34c26"/><rect x="337.73" y="58" width="40.00" height="10" fill="#f1e05a"/><rect x="377.74" y="58" width="10.41" height="10" fill="#563d7c"/><rect x="388.14" y="58" width="5.52" height="10" fill="#3178c6"/><rect x="393.66" y="58" width="0.61" height="10" fill="#f34b7d"/><rect x="394.27" y="58" width="0.59" height="10" fill="#F05138"/><rect x="394.86" y="58" width="1.14" height="10" fill="#DA3434"/></g>
+  <g clip-path="url(#bar)"><rect x="24.00" y="58" width="176.26" height="10" fill="#3572A5"/><rect x="200.26" y="58" width="138.30" height="10" fill="#e34c26"/><rect x="338.55" y="58" width="39.44" height="10" fill="#f1e05a"/><rect x="377.99" y="58" width="10.26" height="10" fill="#563d7c"/><rect x="388.25" y="58" width="5.44" height="10" fill="#3178c6"/><rect x="393.69" y="58" width="0.60" height="10" fill="#f34b7d"/><rect x="394.29" y="58" width="0.58" height="10" fill="#F05138"/><rect x="394.87" y="58" width="1.13" height="10" fill="#DA3434"/></g>
   <g class="item" style="animation-delay:150ms" transform="translate(24,98)">
       <circle cx="5" cy="-4" r="5" fill="#3572A5"/>
       <text x="16" y="0" class="lang">Python</text>
-      <text x="174" y="0" class="pct" text-anchor="end">46.6%</text>
+      <text x="174" y="0" class="pct" text-anchor="end">47.4%</text>
     </g>
 <g class="item" style="animation-delay:230ms" transform="translate(210,98)">
       <circle cx="5" cy="-4" r="5" fill="#e34c26"/>
       <text x="16" y="0" class="lang">HTML</text>
-      <text x="174" y="0" class="pct" text-anchor="end">37.7%</text>
+      <text x="174" y="0" class="pct" text-anchor="end">37.2%</text>
     </g>
 <g class="item" style="animation-delay:310ms" transform="translate(24,124)">
       <circle cx="5" cy="-4" r="5" fill="#f1e05a"/>
       <text x="16" y="0" class="lang">JavaScript</text>
-      <text x="174" y="0" class="pct" text-anchor="end">10.8%</text>
+      <text x="174" y="0" class="pct" text-anchor="end">10.6%</text>
     </g>
 <g class="item" style="animation-delay:390ms" transform="translate(210,124)">
       <circle cx="5" cy="-4" r="5" fill="#563d7c"/>
